@@ -1,0 +1,14 @@
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\Coding\VS22\Assignment1Solution_StudentCode\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
